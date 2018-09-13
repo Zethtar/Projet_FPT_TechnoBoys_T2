@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c79cab7-e0d2-4ddb-ae84-69368e2bd3da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FTP_SpawnPoints_Blueprints/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FTP_SpawnPoints_Blueprints/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FTP_SpawnPoints_Blueprints/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FTP_SpawnPoints_Blueprints/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FTP_SpawnPoints_Blueprints/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FTP_SpawnPoints_Blueprints/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FTP_SpawnPoints_Blueprints/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Object.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Object.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Playmode/Player/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Playmode/Player/PlayerController.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BlueprintController.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BlueprintController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Playmode/Blueprint/BlueprintController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-154">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="352">
+              <caret line="55" column="25" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="25" />
               <folding>
                 <marker date="1536861460421" expanded="true" signature="6:165" ph="..." />
                 <marker date="1536861460421" expanded="true" signature="195:1222" ph="{...}" />
@@ -60,18 +56,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlayerController.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PlayerController.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Playmode/Player/PlayerController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="880">
-              <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+            <state relative-caret-position="262">
+              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
               <folding>
-                <marker date="1536861015165" expanded="true" signature="6:118" ph="..." />
-                <marker date="1536861015165" expanded="true" signature="145:914" ph="{...}" />
-                <marker date="1536861015165" expanded="true" signature="195:912" ph="{...}" />
-                <marker date="1536861015165" expanded="true" signature="287:364" ph="{...}" />
-                <marker date="1536861015165" expanded="true" signature="420:833" ph="{...}" />
-                <marker date="1536861015165" expanded="true" signature="886:909" ph="{...}" />
+                <marker date="1536863460707" expanded="true" signature="6:118" ph="..." />
+                <marker date="1536863460707" expanded="true" signature="145:903" ph="{...}" />
+                <marker date="1536863460707" expanded="true" signature="195:901" ph="{...}" />
+                <marker date="1536863460707" expanded="true" signature="287:364" ph="{...}" />
+                <marker date="1536863460707" expanded="true" signature="420:833" ph="{...}" />
+                <marker date="1536863460707" expanded="true" signature="886:898" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -135,10 +131,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Senses/CollisionStimulus.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Blueprint/BlueprintController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Playmode/Blueprint/Spawner/SpawnPointController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Playmode/Player/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Playmode/Senses/CollisionStimulus.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Playmode/Senses/CollisionSensor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Playmode/Blueprint/BlueprintController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Playmode/Player/PlayerController.cs" />
       </list>
     </option>
   </component>
@@ -152,8 +148,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2299" />
-    <option name="y" value="-4" />
+    <option name="x" value="283" />
+    <option name="y" value="10" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -280,12 +276,12 @@
       <updated>1536843465983</updated>
       <workItem from="1536843474513" duration="999000" />
       <workItem from="1536848278145" duration="7340000" />
-      <workItem from="1536858895958" duration="2544000" />
+      <workItem from="1536858895958" duration="3714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10883000" />
+    <option name="totallyTimeSpent" value="12053000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,7 +293,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-4" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -449,21 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Playmode/Player/PlayerController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
-          <folding>
-            <marker date="1536861015165" expanded="true" signature="6:118" ph="..." />
-            <marker date="1536861015165" expanded="true" signature="145:914" ph="{...}" />
-            <marker date="1536861015165" expanded="true" signature="195:912" ph="{...}" />
-            <marker date="1536861015165" expanded="true" signature="287:364" ph="{...}" />
-            <marker date="1536861015165" expanded="true" signature="420:833" ph="{...}" />
-            <marker date="1536861015165" expanded="true" signature="886:909" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Playmode/Senses/CollisionSensor.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -494,8 +475,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Playmode/Blueprint/BlueprintController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-154">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="352">
+          <caret line="55" column="25" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="25" />
           <folding>
             <marker date="1536861460421" expanded="true" signature="6:165" ph="..." />
             <marker date="1536861460421" expanded="true" signature="195:1222" ph="{...}" />
@@ -506,6 +487,21 @@
             <marker date="1536861460421" expanded="true" signature="878:1090" ph="{...}" />
             <marker date="1536861460421" expanded="true" signature="1036:1086" ph="{...}" />
             <marker date="1536861460421" expanded="true" signature="1143:1217" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Playmode/Player/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+          <folding>
+            <marker date="1536863460707" expanded="true" signature="6:118" ph="..." />
+            <marker date="1536863460707" expanded="true" signature="145:903" ph="{...}" />
+            <marker date="1536863460707" expanded="true" signature="195:901" ph="{...}" />
+            <marker date="1536863460707" expanded="true" signature="287:364" ph="{...}" />
+            <marker date="1536863460707" expanded="true" signature="420:833" ph="{...}" />
+            <marker date="1536863460707" expanded="true" signature="886:898" ph="{...}" />
           </folding>
         </state>
       </provider>

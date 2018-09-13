@@ -40,7 +40,7 @@ namespace Playmode.Player
 
 		public void Unlock(BlueprintController blueprint)
 		{
-			speed += 2;
+			
 		}
 	}
 }
