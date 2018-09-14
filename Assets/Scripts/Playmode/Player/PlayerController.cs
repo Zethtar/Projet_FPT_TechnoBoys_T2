@@ -33,6 +33,9 @@ namespace Playmode.Player
 			if(Input.GetKey(KeyCode.DownArrow))
 				movement += Vector3.down;
 
+			if (Input.GetKey(KeyCode.Space))
+				movement *= 1.5f;
+
 			movement *= speed * Time.deltaTime;
 		
 			transform.root.Translate(movement);

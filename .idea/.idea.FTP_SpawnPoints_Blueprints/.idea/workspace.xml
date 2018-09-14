@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7c79cab7-e0d2-4ddb-ae84-69368e2bd3da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FTP_SpawnPoints_Blueprints/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FTP_SpawnPoints_Blueprints/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Object.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Object.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Playmode/Player/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Playmode/Player/PlayerController.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,15 +58,15 @@
       <file leaf-file-name="PlayerController.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Playmode/Player/PlayerController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+            <state relative-caret-position="396">
+              <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
               <folding>
-                <marker date="1536863460707" expanded="true" signature="6:118" ph="..." />
-                <marker date="1536863460707" expanded="true" signature="145:903" ph="{...}" />
-                <marker date="1536863460707" expanded="true" signature="195:901" ph="{...}" />
-                <marker date="1536863460707" expanded="true" signature="287:364" ph="{...}" />
-                <marker date="1536863460707" expanded="true" signature="420:833" ph="{...}" />
-                <marker date="1536863460707" expanded="true" signature="886:898" ph="{...}" />
+                <marker date="1536864147309" expanded="true" signature="6:118" ph="..." />
+                <marker date="1536864147309" expanded="true" signature="145:962" ph="{...}" />
+                <marker date="1536864147309" expanded="true" signature="195:960" ph="{...}" />
+                <marker date="1536864147309" expanded="true" signature="287:364" ph="{...}" />
+                <marker date="1536864147309" expanded="true" signature="420:892" ph="{...}" />
+                <marker date="1536864147309" expanded="true" signature="945:957" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -147,7 +146,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="283" />
     <option name="y" value="10" />
     <option name="width" value="1400" />
@@ -276,12 +275,12 @@
       <updated>1536843465983</updated>
       <workItem from="1536843474513" duration="999000" />
       <workItem from="1536848278145" duration="7340000" />
-      <workItem from="1536858895958" duration="3714000" />
+      <workItem from="1536858895958" duration="5394000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12053000" />
+    <option name="totallyTimeSpent" value="13733000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -293,7 +292,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -493,15 +492,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Playmode/Player/PlayerController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        <state relative-caret-position="396">
+          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
           <folding>
-            <marker date="1536863460707" expanded="true" signature="6:118" ph="..." />
-            <marker date="1536863460707" expanded="true" signature="145:903" ph="{...}" />
-            <marker date="1536863460707" expanded="true" signature="195:901" ph="{...}" />
-            <marker date="1536863460707" expanded="true" signature="287:364" ph="{...}" />
-            <marker date="1536863460707" expanded="true" signature="420:833" ph="{...}" />
-            <marker date="1536863460707" expanded="true" signature="886:898" ph="{...}" />
+            <marker date="1536864147309" expanded="true" signature="6:118" ph="..." />
+            <marker date="1536864147309" expanded="true" signature="145:962" ph="{...}" />
+            <marker date="1536864147309" expanded="true" signature="195:960" ph="{...}" />
+            <marker date="1536864147309" expanded="true" signature="287:364" ph="{...}" />
+            <marker date="1536864147309" expanded="true" signature="420:892" ph="{...}" />
+            <marker date="1536864147309" expanded="true" signature="945:957" ph="{...}" />
           </folding>
         </state>
       </provider>
